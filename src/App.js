@@ -6,6 +6,7 @@ function App() {
   return (
     <div>
       <Header></Header>
+      <h1>HEllot</h1>
       <Shop></Shop>
     </div>
   );
